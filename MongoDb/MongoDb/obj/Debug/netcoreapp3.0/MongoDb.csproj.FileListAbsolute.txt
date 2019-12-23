@@ -1,0 +1,17 @@
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDb.exe
+D:\EstudoCSharp\MongoDb\MongoDb\obj\Debug\netcoreapp3.0\MongoDb.csprojAssemblyReference.cache
+D:\EstudoCSharp\MongoDb\MongoDb\obj\Debug\netcoreapp3.0\MongoDb.AssemblyInfoInputs.cache
+D:\EstudoCSharp\MongoDb\MongoDb\obj\Debug\netcoreapp3.0\MongoDb.AssemblyInfo.cs
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDb.deps.json
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDb.runtimeconfig.json
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDb.runtimeconfig.dev.json
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDb.dll
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDb.pdb
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\DnsClient.dll
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+D:\EstudoCSharp\MongoDb\MongoDb\bin\Debug\netcoreapp3.0\SharpCompress.dll
+D:\EstudoCSharp\MongoDb\MongoDb\obj\Debug\netcoreapp3.0\MongoDb.csproj.CopyComplete
+D:\EstudoCSharp\MongoDb\MongoDb\obj\Debug\netcoreapp3.0\MongoDb.dll
+D:\EstudoCSharp\MongoDb\MongoDb\obj\Debug\netcoreapp3.0\MongoDb.pdb

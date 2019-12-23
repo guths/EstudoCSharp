@@ -1,0 +1,11 @@
+D:\EstudoCSharp\RedeSocial\RedeSocial\obj\Debug\netcoreapp3.0\RedeSocial.csprojAssemblyReference.cache
+D:\EstudoCSharp\RedeSocial\RedeSocial\obj\Debug\netcoreapp3.0\RedeSocial.AssemblyInfoInputs.cache
+D:\EstudoCSharp\RedeSocial\RedeSocial\obj\Debug\netcoreapp3.0\RedeSocial.AssemblyInfo.cs
+D:\EstudoCSharp\RedeSocial\RedeSocial\bin\Debug\netcoreapp3.0\RedeSocial.exe
+D:\EstudoCSharp\RedeSocial\RedeSocial\bin\Debug\netcoreapp3.0\RedeSocial.deps.json
+D:\EstudoCSharp\RedeSocial\RedeSocial\bin\Debug\netcoreapp3.0\RedeSocial.runtimeconfig.json
+D:\EstudoCSharp\RedeSocial\RedeSocial\bin\Debug\netcoreapp3.0\RedeSocial.runtimeconfig.dev.json
+D:\EstudoCSharp\RedeSocial\RedeSocial\bin\Debug\netcoreapp3.0\RedeSocial.dll
+D:\EstudoCSharp\RedeSocial\RedeSocial\bin\Debug\netcoreapp3.0\RedeSocial.pdb
+D:\EstudoCSharp\RedeSocial\RedeSocial\obj\Debug\netcoreapp3.0\RedeSocial.dll
+D:\EstudoCSharp\RedeSocial\RedeSocial\obj\Debug\netcoreapp3.0\RedeSocial.pdb

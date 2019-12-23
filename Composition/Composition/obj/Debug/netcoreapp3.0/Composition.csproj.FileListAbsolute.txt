@@ -1,0 +1,11 @@
+C:\EstudoCSharp\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.csprojAssemblyReference.cache
+C:\EstudoCSharp\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.AssemblyInfoInputs.cache
+C:\EstudoCSharp\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.AssemblyInfo.cs
+C:\EstudoCSharp\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.exe
+C:\EstudoCSharp\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.deps.json
+C:\EstudoCSharp\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.runtimeconfig.json
+C:\EstudoCSharp\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.runtimeconfig.dev.json
+C:\EstudoCSharp\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.dll
+C:\EstudoCSharp\Composition\Composition\bin\Debug\netcoreapp3.0\Composition.pdb
+C:\EstudoCSharp\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.dll
+C:\EstudoCSharp\Composition\Composition\obj\Debug\netcoreapp3.0\Composition.pdb

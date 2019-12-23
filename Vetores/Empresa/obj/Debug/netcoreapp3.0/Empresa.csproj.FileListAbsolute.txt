@@ -1,0 +1,3 @@
+C:\EstudoCSharp\Vetores\Empresa\obj\Debug\netcoreapp3.0\Empresa.csprojAssemblyReference.cache
+C:\EstudoCSharp\Vetores\Empresa\obj\Debug\netcoreapp3.0\Empresa.AssemblyInfoInputs.cache
+C:\EstudoCSharp\Vetores\Empresa\obj\Debug\netcoreapp3.0\Empresa.AssemblyInfo.cs

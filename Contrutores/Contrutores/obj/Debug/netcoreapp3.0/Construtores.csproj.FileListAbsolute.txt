@@ -1,0 +1,11 @@
+C:\EstudoCSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.0\Construtores.exe
+C:\EstudoCSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.0\Construtores.deps.json
+C:\EstudoCSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.0\Construtores.runtimeconfig.json
+C:\EstudoCSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.0\Construtores.runtimeconfig.dev.json
+C:\EstudoCSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.0\Construtores.dll
+C:\EstudoCSharp\Contrutores\Contrutores\bin\Debug\netcoreapp3.0\Construtores.pdb
+C:\EstudoCSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.0\Construtores.csprojAssemblyReference.cache
+C:\EstudoCSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.0\Construtores.AssemblyInfoInputs.cache
+C:\EstudoCSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.0\Construtores.AssemblyInfo.cs
+C:\EstudoCSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.0\Construtores.dll
+C:\EstudoCSharp\Contrutores\Contrutores\obj\Debug\netcoreapp3.0\Construtores.pdb

@@ -1,0 +1,11 @@
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\obj\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.csprojAssemblyReference.cache
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\obj\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.AssemblyInfoInputs.cache
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\obj\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.AssemblyInfo.cs
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\bin\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.exe
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\bin\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.deps.json
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\bin\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.runtimeconfig.json
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\bin\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.runtimeconfig.dev.json
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\bin\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.dll
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\bin\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.pdb
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\obj\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.dll
+C:\EstudoCSharp\ManipulaçãoDeArquivos\ManipulaçãoDeArquivos\obj\Debug\netcoreapp3.0\ManipulaçãoDeArquivos.pdb
